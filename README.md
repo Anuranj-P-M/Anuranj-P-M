@@ -1,16 +1,72 @@
 ## Hi there 👋
 
-<!--
-**Anuranj-P-M/Anuranj-P-M** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **[`Anuranj`](www.linkedin.com/in/anuranjpm)**, an Electronics and Communication Engineering student, developer, and technology enthusiast passionate about building innovative hardware and software solutions. My interests span embedded systems, IoT, artificial intelligence, computer vision, and automation. I enjoy designing projects that solve real-world problems, exploring emerging technologies, and continuously expanding my technical skills. Through this portfolio, I share my projects, experiments, and learning journey while contributing to the engineering and developer community.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://linkedin.com/in/anuranjpm"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+
+<details>
+  <summary>More about me</summary>
+
+- **Name**: Anuranj P M
+- **From**: Kerala, India
+- **Electronics and Communication Student** | **Aspiring Embedded Engineer** 
+- Developed an AI-based Smart Parking System using ESP32, ESP32-CAM, ultrasonic sensors, and computer vision for vehicle detection, slot monitoring, and license plate recognition.
+- Designed IoT and embedded systems projects using ESP32, Arduino, sensors, relays, and wireless communication technologies.
+- Worked on wireless audio and announcement systems focused on real-time communication and automation.
+- Developed a Reflex Tester System using ESP32, relays, and solenoid locks to measure human reaction time for interactive engineering demonstrations.
+- Explored AI, Computer Vision, and Machine Learning applications for real-world automation and intelligent monitoring systems.
+- Researched advanced sensing technologies, including FMCW Radar-based Heartbeat Monitoring Systems for non-contact vital sign detection.
+- Experienced in hardware-software integration, embedded programming, sensor interfacing, and IoT solution development.
+- Passionate about Embedded and AI technologies.
+- Continuously learning Embedded Systems, IoT, Artificial Intelligence, Computer Vision, Network Security, and Cybersecurity.
+
+
+</details>
+<br>
+
+---
+
+<h2 id="knowledge_skills" align=''> Knowledge & Skills </h2>
+
+<br>
+
+<div style="border: 2px solid #22F700; border-radius: 10px; padding: 20px; margin-bottom: 20px;">
+  <div align="left" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+      <img src="https://img.shields.io/badge/IoT-Technologies-00C853?style=for-the-badge&logo=arduino&color=000000" alt="IoT Technologies" />
+      <img src="https://img.shields.io/badge/Arduino-IDE-00979D?style=for-the-badge&logo=arduino&color=000000" alt="Arduino IDE" />
+      <img src="https://img.shields.io/badge/Embedded-Systems-FF6F00?style=for-the-badge&logo=microchip&color=000000" alt="Embedded Systems" />
+      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&color=000000" alt="Python" />
+      <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&color=000000" alt="Linux" />
+      <img src="https://img.shields.io/badge/HTML5-5D4B6C?style=for-the-badge&logo=html5&color=000000" alt="HTML5" />
+      <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&color=000000" alt="Ubuntu" />
+      <img src="https://img.shields.io/badge/Adobe-Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&color=000000" alt="Adobe Photoshop" />
+      <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&color=000000" alt="Kali Linux" />
+      <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&color=000000" alt="VS Code" />
+
+
+  </div>
+</div>
+
+---
+<h2 id="Certifications" align=''> Certifications </h2>
+
+<div>
+<img src="https://![Tata Data Visualisation Job Simulation](https://img.shields.io/badge/Tata-Data%20Visualisation%3A%20Empowering%20Business%20with%20Effective%20Insights-blue?style=for-the-badge&color=000000)
+  
+<img src="https://img.shields.io/badge/Deloitte%20Australia-Data%20Analytics%20Job%20Simulation-green?style=for-the-badge&color=000000" alt="Deloitte Australia Data Analytics Job Simulation" />
+
+</div>
+
+---
+
+<h2 id="Projects" align=''> Projects </h2>
+
+
+| **Project**      | **Description**                                                                                  |
+|-------------------|--------------------------------------------------------------------------------------------------|
+| **[Project 1](https://github.com/)**    | Short Description |
+| **[Project 2](https://github.com/)**    | Short Description |
+| **[Project 3](https://github.com/)**    | Short Description | 
+
+---
