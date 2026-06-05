@@ -50,9 +50,6 @@ I'm **[`Anuranj`](www.linkedin.com/in/anuranjpm)**, an Electronics and Communica
 <h2 id="Certifications" align=''> Certifications </h2>
 
 <div>
-<img src="https://![Tata Data Visualisation Job Simulation](https://img.shields.io/badge/Tata-Data%20Visualisation%3A%20Empowering%20Business%20with%20Effective%20Insights-blue?style=for-the-badge&color=000000)
-  
-<img src="https://img.shields.io/badge/Deloitte%20Australia-Data%20Analytics%20Job%20Simulation-green?style=for-the-badge&color=000000" alt="Deloitte Australia Data Analytics Job Simulation" />
 
 </div>
 
