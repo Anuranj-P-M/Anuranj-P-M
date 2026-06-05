@@ -33,9 +33,7 @@ I'm **[`Anuranj`](www.linkedin.com/in/anuranjpm)**, an Electronics and Communica
 
 <div style="border: 2px solid #22F700; border-radius: 10px; padding: 20px; margin-bottom: 20px;">
   <div align="left" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
-      <img src="https://img.shields.io/badge/IoT-Technologies-00C853?style=for-the-badge&logo=arduino&color=000000" alt="IoT Technologies" />
-      <img src="https://img.shields.io/badge/Arduino-IDE-00979D?style=for-the-badge&logo=arduino&color=000000" alt="Arduino IDE" />
-      <img src="https://img.shields.io/badge/Embedded-Systems-FF6F00?style=for-the-badge&logo=microchip&color=000000" alt="Embedded Systems" />
+      <img src="https://img.shields.io/badge/Arduino-IDE-00979D?style=for-the-badge&logo=arduino&logoColor=00979D&color=000000" alt="Arduino IDE" />
       <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&color=000000" alt="Python" />
       <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&color=000000" alt="Linux" />
       <img src="https://img.shields.io/badge/HTML5-5D4B6C?style=for-the-badge&logo=html5&color=000000" alt="HTML5" />
