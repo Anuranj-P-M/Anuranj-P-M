@@ -46,10 +46,7 @@ I'm **[`Anuranj`](www.linkedin.com/in/anuranjpm)**, an Electronics and Communica
   </div>
 </div>
 
----
-<h2 id="Certifications" align=''> Certifications </h2>
 
-<div>
 
 </div>
 
