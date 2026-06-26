@@ -57,8 +57,6 @@ I'm **[`Anuranj`](www.linkedin.com/in/anuranjpm)**, an Electronics and Communica
 
 | **Project**      | **Description**                                                                                  |
 |-------------------|--------------------------------------------------------------------------------------------------|
-| **[Wireless Audio Notice Board System](https://github.com/Anuranj-P-M/Wireless-Audio-Notice-Board-System/tree/main)**    | Short Description |
-| **[Project 2](https://github.com/)**    | Short Description |
-| **[Project 3](https://github.com/)**    | Short Description | 
+| **[Wireless Audio Notice Board System](https://github.com/Anuranj-P-M/Wireless-Audio-Notice-Board-System/tree/main)**    | A real-time Wireless Audio Notice Board System using ESP32 and Flutter. Supports live voice announcements from both an INMP441 I2S microphone and a Flutter mobile app, streaming low-latency audio over Wi-Fi (UDP) to ESP32 receiver units for wireless public address applications.|
 
 ---
